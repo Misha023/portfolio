@@ -1,0 +1,39 @@
+.Header {
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    z-index: 100;
+    margin-top: 0;
+    transition: 50ms;
+    background-color: white;
+}
+
+.HeaderScrolled {
+    -webkit-box-shadow: 0px 2px 16px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 2px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 2px 16px 0px rgba(0,0,0,0.2);
+}
+
+.HeaderGroup {
+    max-width: 200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    align-items: center;
+    justify-items: center;
+    line-height: 60px;
+    border-bottom: 1px solid rgb(0, 0, 0, 0.1);
+}
+
+.Header a {
+    color: black;
+    transition: 300ms;
+}
+
+.active {
+    color: #AE422F;
+}
+
+.Header a:hover {
+    color: #AE422F;
+}
