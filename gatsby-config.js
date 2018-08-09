@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: 'Misha Scholte | Product & UX Designer',
-    siteUrl: `https://www.mishascolte.nl`,
+    siteUrl: `https://www.mishascholte.nl`,
     description: `User flows done right`,
   },
   plugins: ['gatsby-plugin-react-helmet',
-  `gatsby-plugin-sharp`,
+  `gatsby-transformer-sharp`,
   `gatsby-plugin-sharp`],
 }
