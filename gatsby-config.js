@@ -4,5 +4,7 @@ module.exports = {
     siteUrl: `https://www.mishascolte.nl`,
     description: `User flows done right`,
   },
-  plugins: ['gatsby-plugin-react-helmet'],
+  plugins: ['gatsby-plugin-react-helmet',
+  `gatsby-plugin-sharp`,
+  `gatsby-plugin-sharp`],
 }
