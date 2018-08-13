@@ -93,8 +93,8 @@ const SecondPage = () => (
           <li>Redesigned the backend systems to improve the experience for car mechanics</li>
           <li>Conducted usability tests to optimize the checkout flow</li>
           <li>Nominated for Most Disruptive Startup</li>
-          <p>In 2017 the team behind Carsom.nl, despite their efforts, chose to stop with the platform.</p>
         </ul>
+        <p>In 2017 the team behind Carsom.nl, despite their efforts, chose to stop with the platform.</p>
       </div>
       <div>
         <h3>Tweakers.net <span className="divider">/</span> Product Owner & UX Designer <span className="divider">/</span> <span className="timeframe">2010 - 2014</span></h3>
