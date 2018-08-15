@@ -3,19 +3,15 @@ import Link from 'gatsby-link'
 
 const SecondPage = () => (
   
-  <div className="contents">
+  <div>
   <section>
     <div className="section">
-      <div className="title">
-        <div className="sectionTitle">
-          <h1>Work Experience</h1> 
-        </div>
+    <div className="heroContainer">
+        <h1 className="heroTitle">Work Experience<span className="red">.</span></h1>
+        <p className="heroDescription">I’m fulltime employed by <a href="https://persgroep.nl" title="De Persgroep">De Persgroep</a> and help their brands with the digital transformation. My main focus is mobile strategy and native apps. Thanks to their huge portfolio, I've had the opportunity to work on a lot of different media brands and it is impossible to list everything up.</p>
       </div>
     </div>
-    <div className="section">
-      <div classname="sectionBody">
-        <p>I’m fulltime employed by <a href="https://persgroep.nl" title="De Persgroep">De Persgroep</a> and help their brands with the digital transformation. My main focus is mobile strategy and native apps. Thanks to their huge portfolio, I've had the opportunity to work on a lot of different media brands and it is impossible to list everything up.</p>
-      </div>
+    <div className="section contents">
       <div>
         <h3><a href="https://volkskrant.nl" title="De Volkskrant Editie" target="_blank">De Volkskrant Editie</a> <span className="divider">/</span> UX Designer <span className="divider">/</span> <span className="timeframe">2017 - current</span></h3>
       </div>
@@ -121,15 +117,6 @@ const SecondPage = () => (
         </ul>
       </div>
 
-    </div>
-    </section>
-    <section>
-    <div className="section">
-      <div className="title">
-        <div className="sectionTitle">
-          <h1>Tools, skills and traits</h1> 
-        </div>
-      </div>
     </div>
     </section>
   </div>
