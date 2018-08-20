@@ -151,6 +151,9 @@ li {
     font-size: 18px;
     line-height: 28px;
   }
+  .heroTitle {
+    font-size: 3em;
+  }
   button {
     padding: 15px 20px;
     font-size: 24px;
