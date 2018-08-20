@@ -4,6 +4,8 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/Header'
 import './index.css'
+import '../components/Grid.css'
+import Footer from '../components/Footer';
 
 const Layout = ({ children, data }) => (
   <div>
@@ -17,6 +19,7 @@ const Layout = ({ children, data }) => (
     <Header siteTitle={data.site.siteMetadata.title} />
     
       {children()}
+    <Footer></Footer>
   </div>
 )
 
