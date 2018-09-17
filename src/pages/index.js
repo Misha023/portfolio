@@ -5,7 +5,6 @@ import Img from 'react-image'
 const IndexPage = () => (
   
   <div>
-    
     <div className="container">
       <div className="heroContainer">
         <div className="row">

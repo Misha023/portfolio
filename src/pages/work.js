@@ -32,7 +32,7 @@ const SecondPage = () => (
         <li>Ideated and conceptualized a new whitelabel app platform to publish digital newspapers that enabled art directors to create rich visual experiences similar to the paper version</li>
         <li>Created wireframes and prototypes with Sketch, Principle and Framer to iteratively test the concept with users and validate our decisions</li>
         <li>Collaborated closely with developers to ship new versions at the end of every iteration</li>
-        <li>Simplified the revenue streams with a subscription model and new propositions</li>
+        <li>Simplified the revenue streams with a subscription model and new propositions, <a href="https://www.marketingtribune.nl/design/nieuws/2018/09/designpanel-verkoop-digitale-abonnementen-sinds-lancering-verdrievoudigd/index.xml" title="Design Panel: Verkoop digitale abonnementen sinds lancering verdrievoudigd">tripling the number of sold subscriptions</a></li>
         <li>Designed sign-up, onboarding and payment flows to integrate with the countless of different brands and systems within De Persgroep</li>
       </ul>
       </div>
